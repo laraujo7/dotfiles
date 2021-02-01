@@ -1,0 +1,87 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Auxiliares/CSS Teste">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1kco0Hg6yhlM50Ar2Z6q0QojM8C">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-202.7660.26" />
+              <option name="buildTimestamp" value="1601973137997" />
+              <frame x="0" y="0" width="1440" height="900" fullScreen="true" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1606011812485" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Auxiliares/Testes">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1azEtQpJLzs4Vq5WBXzjttsNqrd">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-202.7660.26" />
+              <option name="buildTimestamp" value="1601973137997" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1606011702418" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MIEI/3ºano/1ºsemestre/SD/Fichas/Ficha1">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1iXn9kSjaRZe410czox3nEmMP73">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-202.7660.26" />
+              <option name="buildTimestamp" value="1601973126274" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1610387480246" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Auxiliares/DSS_upgrade/wms">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1mYW43TuaryYLpRi49A168VJfQT">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-202.7660.26" />
+              <option name="buildTimestamp" value="1601973130899" />
+              <frame x="0" y="0" width="1440" height="900" fullScreen="true" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1610391026211" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MIEI/3ºano/1ºsemestre/SD/Project/StayAwayCovid">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1nRdQARrpyRq5N2zvE9xapBvU1R">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-202.7660.26" />
+              <option name="buildTimestamp" value="1601973162316" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1611927307641" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/MIEI/3ºano/1ºsemestre/DSS/wms_working">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1m4VJuphQeJag77vaqw5gVO3fRP">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-202.7660.26" />
+              <option name="buildTimestamp" value="1601973162316" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1611927316049" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/MIEI/3ºano/1ºsemestre/SD/Project" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/MIEI/3ºano/1ºsemestre/DSS/wms_working" />
+        <option value="$USER_HOME$/MIEI/3ºano/1ºsemestre/SD/Project/StayAwayCovid" />
+        <option value="$USER_HOME$/Auxiliares/DSS_upgrade/wms" />
+        <option value="$USER_HOME$/MIEI/3ºano/1ºsemestre/SD/Fichas/Ficha1" />
+        <option value="$USER_HOME$/Auxiliares/Testes" />
+        <option value="$USER_HOME$/Auxiliares/CSS Teste" />
+      </list>
+    </option>
+  </component>
+</application>
