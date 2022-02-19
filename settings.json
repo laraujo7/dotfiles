@@ -1,4 +1,5 @@
 {
+
     "terminal.integrated.fontSize": 14,
   
     "workbench.iconTheme": "material-icon-theme",
@@ -41,13 +42,18 @@
     "files.associations": {
       ".sequelizerc": "javascript",
       ".stylelintrc": "json",
-      ".prettierrc": "json"
+      ".prettierrc": "json",
+      
     },
   
-    "window.zoomLevel": 0,
-  
-    "emmet.syntaxProfiles": { "javascript": "jsx" },
-    "emmet.includeLanguages": { "javascript": "javascriptreact" },
+    "emmet.syntaxProfiles": { 
+      "javascript": "jsx",
+    },
+
+    "emmet.includeLanguages": { 
+      "javascript": "javascriptreact",
+      "phoenix-heex": "html",
+    },
   
     
     "gitlens.codeLens.recentChange.enabled": false,
@@ -58,7 +64,7 @@
     "terminal.integrated.shell.osx": "/bin/zsh",
     "liveshare.featureSet": "insiders",
   
-    "typescript.tsserver.log": "verbose",
+    "typescript.tsserver.log": "off",
     "javascript.suggest.autoImports": true,
     "typescript.suggest.autoImports": true,
     "liveServer.settings.donotShowInfoMsg": true,
@@ -94,3 +100,5 @@
     "vscode-w3cvalidation.validator-token": "Mon, 21 Dec 2020 03:04:25 GMT",
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
+
+  

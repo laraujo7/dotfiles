@@ -15,30 +15,17 @@ brew "gcc"
 brew "gdb"
 # Git extension for versioning large files
 brew "git-lfs"
-# Core application library for C
-brew "glib"
-# Drop-in replacement for MySQL
-brew "mariadb"
 # Java-based project management
 brew "maven"
-# Cross platform, open source .NET development framework
-brew "mono", link: false
-# Text-based UI library
-brew "ncurses"
 # Fast, highly customisable system info script
 brew "neofetch"
-# Platform built on V8 to build network applications
-brew "node", link: false
 # Manage compile and link flags for libraries
 brew "pkg-config"
 # Autoformat shell script source code
 brew "shfmt"
 # Secure Programming Lint
 brew "splint"
-# JavaScript package manager
-brew "yarn"
 # UNIX shell (command interpreter)
 brew "zsh"
-cask "logmein-hamachi"
 # Reverse proxy, secure introspectable tunnels to localhost
 cask "ngrok"
