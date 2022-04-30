@@ -1,0 +1,19 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Luis Araújo
+	email = l.araujoo.1996@gmail.com
+# Please adapt and uncomment the following lines:
+#	name = Luis Araujo
+#	email = laraujo@MBP-de-Luis.home
+
+[core]
+  editor = code --wait
+
+[alias]
+	standup = !git log --all --author=$USER --format=%s --since '9am last week'
+
+[branch]
+	autosetuprebase = always
+
+[pull]
+ 	rebase = true
