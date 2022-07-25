@@ -1,6 +1,0 @@
-# This is Git's per-user configuration file.
-[user]
-	name = Luis
-	email = 44007026+LAraujo7@users.noreply.github.com
-[core]
-  excludesfile = ~/.dotfiles/gitignore
